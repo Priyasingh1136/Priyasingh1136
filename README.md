@@ -22,5 +22,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyasingh1136&show_icons=true&locale=en&layout=compact" alt="priyasingh1136" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyasingh1136&show_icons=true&locale=en" alt="priyasingh1136" /></p>
+## Animated Progress Bar
+
+Here’s an animated progress bar example:
+<div>
+    <a href="#"><img alt="Prateek's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodi&custom_title=Prateek%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+</div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyasingh1136&" alt="priyasingh1136" /></p>
