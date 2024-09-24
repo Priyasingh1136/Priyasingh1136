@@ -30,4 +30,3 @@ Here’s an animated progress bar example:
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyasingh1136&" alt="priyasingh1136" /></p>
