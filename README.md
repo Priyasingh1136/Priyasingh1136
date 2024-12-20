@@ -25,9 +25,9 @@
 <img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyasingh1136&label=Profile%20views&color=0e75b6&style=flat" aalt="priyasingh1136" /> </p>
 
-- 🌱 I’m currently learning **DSA(c++),**
+- 🌱 I’m currently learning **DSA(c++),JAVA**
 
-- 💬 Ask me about **c language,**
+- 💬 Ask me about **c language,PYTHON**
 
 - 📫 How to reach me **priyasinghchauhan1136@gamil.com**
 
