@@ -22,5 +22,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyasingh1136&show_icons=true&locale=en&layout=compact" alt="priyasingh1136" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyasingh1136&show_icons=true&locale=en" alt="priyasingh1136" /></p>
-<img align="right" alt="coding" width="400px" src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif">
 
